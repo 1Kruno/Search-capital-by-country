@@ -1,0 +1,96 @@
+{
+	"documentation" :
+	[
+	{
+	 "function" : "draw()",
+	 "language" : "javascript",
+	 "process" : "banner animation",
+	 "location" : "js.main",
+	 "author" : "w3schools"
+	 },
+	 {
+	 "function" : "dynamicFrame()",
+	 "language" : "javascript",
+	 "process" : "banner animation",
+	 "location" : "js.main",
+	 "author" : "w3schools"
+	 },
+	 {
+	 "function" : "MyFunction()",
+	 "language" : "javascript",
+	 "process" : "hiding countries from the list",
+	 "location" : "js.main",
+	 "author" : "w3schools"
+	 },
+	 {
+	 "function" : "autocomplete()",
+	 "language" : "javascript",
+	 "process" : "checks the input from field",
+	 "location" : "js.main",
+	 "author" : "w3schools"
+	 },
+	 {
+	 "function" : "addActive()",
+	 "language" : "javascript",
+	 "process" : "classifies item as active",
+	 "location" : "js.main",
+	 "author" : "w3schools"
+	 },
+	 {
+	 "function" : "removeActive()",
+	 "language" : "javascript",
+	 "process" : "removes focus from the item",
+	 "location" : "js.main",
+	 "author" : "w3schools"
+	 },
+	 {
+	 "function" : "closeAllLists()",
+	 "language" : "javascript",
+	 "process" : "closes all autocomplete lists",
+	 "location" : "js.main",
+	 "author" : "w3schools"
+	 },
+	 {
+	 "function" : "testFunction()",
+	 "language" : "javascript",
+	 "process" : "traversing list of countries and updating capital and map",
+	 "location" : "js.main",
+	 "author" : "Krunoslav Bubanj"
+	 },
+	 {
+	 "function" : "cAc",
+	 "language" : "javascript",
+	 "process" : "list of countries, capitals and map location sources",
+	 "location" : "js.main",
+	 "author" : "Krunoslav Bubanj"
+	 },
+	 {
+	 "function" : "countries",
+	 "language" : "javascript",
+	 "process" : "list of countries for autocomplete list",
+	 "location" : "js.main",
+	 "author" : "Krunoslav Bubanj"
+	 },
+	 {
+	 "function" : "hinter()",
+	 "language" : "javascript",
+	 "process" : "autocomplete for form",
+	 "location" : "js.main",
+	 "author" : "w3schools"
+	 },
+	 {
+	 "function" : "documentation",
+	 "language" : "json",
+	 "process" : "information about functions",
+	 "location" : "documentation.json",
+	 "author" : "Krunoslav Bubanj"
+	 },
+	 {
+	 "function" : "info",
+	 "language" : "PHP",
+	 "process" : "displaying info about functions",
+	 "location" : "info.php",
+	 "author" : "Krunoslav Bubanj"
+	 }
+	 ]
+}
